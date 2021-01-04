@@ -6,7 +6,7 @@
 5. Licensing, Authors, and Acknowledgements
 
 # Installation
-The project uses python 3 and all the installations can be done using the requirements.txt file
+The project uses python 3 and all the installations can be done using the requirements.txt file.
 
 # Project Motivation
 For this project, I was interested in looking at Times of India News headline dataset from 2001-2020 to understand:
