@@ -16,7 +16,7 @@ For this project, I was interested in looking at Times of India News headline da
 
 
 # File Descriptions
-requirements.txt contains all the required packages.
+requirements.txt contains all the required packages and 
 .ipynb notebook contains the analysis.
 
 # Results
