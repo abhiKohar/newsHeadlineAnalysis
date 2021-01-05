@@ -20,7 +20,7 @@ requirements.txt contains all the required packages and
 .ipynb notebook contains the analysis.
 
 # Results
-The main findings of the code can be found at the post available on medium here.
+The main findings of the code can be found at the post available on medium [here](https://abhinavkohar007.medium.com/what-issues-do-indian-media-talk-about-96a58c4eed8).
 
 # Licensing, Authors, and Acknowledgements
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/therohk/india-headlines-news-dataset). Otherwise, feel free to use the code here as you would like!
