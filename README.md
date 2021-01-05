@@ -21,4 +21,4 @@ For this project, I was interested in looking at Times of India News headline da
 The main findings of the code can be found at the post available on medium here.
 
 # Licensing, Authors, and Acknowledgements
-You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here] (https://www.kaggle.com/therohk/india-headlines-news-dataset). Otherwise, feel free to use the code here as you would like!
